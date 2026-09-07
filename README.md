@@ -1,2 +1,6 @@
 # programme-in-C
-C programming notes
+#include<stdio.h>
+int main(){
+printf("sachin");
+return 0;
+}
