@@ -1,4 +1,4 @@
-# programme-in-C
+# C-language
 #include<stdio.h>
 int main(){
 printf("sachin");
