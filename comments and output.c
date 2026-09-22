@@ -3,7 +3,6 @@
 // Sachin is a student
 
 
-
 //// 02 multiple line comment 
 /*
 sachin singh is my name 
