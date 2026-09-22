@@ -1,4 +1,4 @@
-//// comments two type single and multiple line comment 
+//// comments two type single and multiple line comment
 //// single line comment 
 // Sachin is a student
 
