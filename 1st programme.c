@@ -1,4 +1,4 @@
-//Print name in C 
+//Print 1st program in C
 #include<stdio.h>
 
 int main () {
