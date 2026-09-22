@@ -54,3 +54,13 @@ int main(){
     printf("pi value is %f",pi);
     return 0;
 }
+
+
+////case 03 characters
+#include<stdio.h>
+
+int main(){
+    char name = 'Sachin';
+    printf("my name is %c",name);
+    return 0;
+}
