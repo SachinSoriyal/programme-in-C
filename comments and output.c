@@ -50,7 +50,7 @@ I am trying to figuring things out
 #include<stdio.h>
 
 int main(){
-    int pi = 3.18;
+    float pi = 3.18;
     printf("pi value is %f",pi);
     return 0;
 }
