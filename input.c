@@ -18,6 +18,7 @@
 
 int main(){
     int first_number,second_number;
+
     printf("enter first number:");
     scanf("%d",&first_number);
 
@@ -25,8 +26,11 @@ int main(){
     scanf("%d",&second_number);
 
     int sum = first_number + second_number;
+
     printf("sum of these number is :%d",sum);
+    
     return 0;
+
 }
 
 
