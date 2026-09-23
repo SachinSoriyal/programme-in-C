@@ -28,3 +28,7 @@ int main(){
     printf("sum of these number is :%d",sum);
     return 0;
 }
+
+
+////compilation 
+// A computer program that translate c code into machine code
