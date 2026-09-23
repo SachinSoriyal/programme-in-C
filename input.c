@@ -36,3 +36,4 @@ int main(){
 
 ////compilation 
 // A computer program that translate c code into machine code
+//// input.c ----> C compiler ----->a.exe(window) 
