@@ -5,4 +5,5 @@ Flow Chart : Graphical/pictorial representation of the algorithm
 <br>
 02-> process : Input/Output
 <br>
-03->
+03-> processing : Information process
+
